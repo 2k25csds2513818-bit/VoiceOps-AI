@@ -1,0 +1,22 @@
+ticket_id,created_at,order_id,intent,reason,summary
+TKTef68f4b06300463cb1dcf67c363b65f1,2026-10-24T22:12:15,69520867,delivery,delivery_delay,Customer request: My order is delayed. Please create a support ticket.. Order ID: 69520867. Human review requested; verify the facts and applicable policy before deciding on a resolution.
+TKT1b473054caee47fa9e2877bd5823f2ec,2026-10-24T22:46:41,69520867,delivery,delivery_delay,Customer request: My order is delayed. Please create a support ticket.. Order ID: 69520867. Human review requested; verify the facts and applicable policy before deciding on a resolution.
+TKT89606c573d84454a8d5c6330702dcd36,2026-10-24T23:44:07,,escalation,customer_requested_human_or_ticket,Product safety issue reported by customer: My battery is swelling. What should I do?. Customer was instructed to stop using the product. Immediate human review and handoff required.
+TKT126cc99160ee4fbe94a3de3de9532b04,2026-10-24T23:55:50,,escalation,customer_requested_human_or_ticket,Product safety issue reported by customer: My battery is swelling. What should I do?. Customer was instructed to stop using the product. Immediate human review and handoff required.
+TKT50184e8b33a04537832ca0f0e28e12e9,2026-10-24T23:56:53,,escalation,customer_requested_human_or_ticket,"Product safety issue reported by customer: Where is my order 69520867?
+
+
+
+What should I do if I receive a damaged product?
+
+
+
+My battery is swelling. What should I do?. Customer was instructed to stop using the product. Immediate human review and handoff required."
+TKTdb33b5ddefd74858bf27e7364624b160,2026-10-25T00:05:10,69520867,escalation,customer_requested_human_or_ticket,Product safety issue reported by customer: My battery is swelling. What should I do?. Customer was instructed to stop using the product. Immediate human review and handoff required.
+TKT40f1a801a5ff4c568808eedbe3e783bc,2026-10-25T00:13:07,69520867,escalation,customer_requested_human_or_ticket,Product safety issue reported by customer: My battery is swelling. What should I do?. Customer was instructed to stop using the product. Immediate human review and handoff required.
+TKT91a778d7e27741b48efb5f9705f514bf,2026-10-25T00:26:36,69520867,escalation,customer_requested_human_or_ticket,Product safety issue reported by customer: My product battery is swelling.. Customer was instructed to stop using the product. Immediate human review and handoff required.
+TKTa223c9c25a42492d8d33c3c3b2136222,2026-10-25T00:26:46,69520867,delivery,delivery_delay,Customer request: My order is delayed. Please help.. Order ID: 69520867. Human review requested; verify the facts and applicable policy before deciding on a resolution.
+TKT6af3cc90bf404cc4aba06cc5e02eb02f,2026-10-25T00:27:00,69520867,escalation,customer_requested_human_or_ticket,Customer request: I want to talk to a human agent.. Order ID: 69520867. Human review requested; verify the facts and applicable policy before deciding on a resolution.
+TKTb8b582434ca34692b2325b4b71d9e6c2,2026-10-25T14:00:24,,escalation,customer_requested_human_or_ticket,Product safety issue reported by customer: My product battery is swelling.. Customer was instructed to stop using the product. Immediate human review and handoff required.
+TKT865bb50f6f494c5fadad4ff7e55317e6,2026-10-25T14:03:16,69520867,delivery,delivery_delay,Customer request: My order is delayed. Please help.. Order ID: 69520867. Human review requested; verify the facts and applicable policy before deciding on a resolution.
+TKT6d73a2d0c07445ac913a8a0d50f4df7d,2026-10-25T14:03:41,69520867,escalation,customer_requested_human_or_ticket,Customer request: I want to talk to a human agent.. Order ID: 69520867. Human review requested; verify the facts and applicable policy before deciding on a resolution.
